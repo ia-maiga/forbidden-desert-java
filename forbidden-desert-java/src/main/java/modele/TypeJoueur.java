@@ -1,6 +1,0 @@
-package modele;
-
-public enum TypeJoueur {
-    ARCHEOLOGUE, ALPINISTE, EXPLORATEUR, METEOROLOGUE, NAVIGATRICE,
-    PORTEUSE_EAU
-}

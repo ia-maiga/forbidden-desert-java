@@ -1,6 +1,0 @@
-package modele;
-
-public enum TypeCase {
-    SABLE, OEIL, CRASH, PISTE_DECOLLAGE, OASIS, MIRAGE, TUNNEL, ENGRENAGE,
-    INDICE_LIGNE, INDICE_COLONNE
-}
